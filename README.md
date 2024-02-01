@@ -5,7 +5,7 @@ I'm Tony, now a MPhil student in Cambridge Machine Learning and Machine Intellig
 - 🌱 I’m currently learning Advanced Machine Learning and Deep Learning
 - 📫 How to reach me: ro352@cam.ac.uk
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyauyeung&layout=compact)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
