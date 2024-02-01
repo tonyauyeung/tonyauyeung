@@ -6,7 +6,7 @@ I'm Tony, now a MPhil student in Cambridge Machine Learning and Machine Intellig
 <p align="left">
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/seoihong-auyeung-225845235" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lois__lu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tony.seoihong.auyeung/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
 <!--![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyauyeung&show_icons=true&theme=radical)-->
