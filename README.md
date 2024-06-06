@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Tony, now a MPhil student in **Cambridge Machine Learning and Machine Intelligence** (MLMI 23-24). Prior to it, I finished my undergrad in **Harbin Institute of Technology** (shenzhen, China) major in **Data Science**. I spent 7 months exchanging in **University of Oxford** studying **Mathematics and Statistics** during my year 3 (undergrad), where I did my first research and published my first paper. My research mainly fucos on **ML/DL**.
 
-- 🔭 I’m currently working on **Multi-Agent Intelligence**
+- 🔭 I’m currently working on **Diffusion Models and Energy-based Models**
 - 🌱 I’m currently learning Advanced **Machine Learning** and **Deep Learning**
 - 📫 How to reach me: ro352@cam.ac.uk
 
