@@ -11,6 +11,7 @@ I'm Tony, now a MPhil student in **Cambridge Machine Learning and Machine Intell
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/seoihong-auyeung-225845235" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tony.seoihong.auyeung/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=8G4PuYoAAAAJ&hl=en&oi=ao" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/120px-Google_Scholar_logo.svg.png" alt="" height="30" width="40" /></a>
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
 <!--![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyauyeung&show_icons=true&theme=radical)-->
