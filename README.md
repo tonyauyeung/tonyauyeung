@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Tony RuiKang OuYang (欧阳瑞康). Recently, I completed my **MPhil in Machine Learning and Machine Intelligence** from the University of Cambridge, where my thesis focus on energy-based models and neural sampler for sampling from Boltzmann distribution and supervised by [Prof. José Miguel Hernández-Lobato](https://jmhl.org).
 
-Prior to Cambridge, I obtained a BEng in **Harbin Institute of Technology, shenzhen** (HITsz) with a Distinction, major in **Data Science**. During my year 3, I spent 7 months visiting in the **University of Oxford**, fully funded by HITsz, studying **Mathematics and Statistics** and supervised by [Prof. Gesine Reinert]([url](https://www.stats.ox.ac.uk/~reinert/)).
+Prior to Cambridge, I obtained a BEng in **Harbin Institute of Technology, shenzhen** (HITsz) with a Distinction, major in **Data Science**. During my year 3, I spent 7 months visiting in the **University of Oxford**, fully funded by HITsz, studying **Mathematics and Statistics** and supervised by [Prof. Gesine Reinert](https://www.stats.ox.ac.uk/~reinert/).
 
 My current research interests span generative models, neural samplers and their application to molecular generation. In long term, I'm interested in probabilistic machine learning and AI4S, espesially AI4Molecules and AI4Physics. 
 
