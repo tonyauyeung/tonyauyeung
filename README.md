@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tony RuiKang OuYang (歐陽瑞康 in Chinese; SeoiHong AuYeung in Cantonese). Recently, I completed my **MPhil in Machine Learning and Machine Intelligence** from the University of Cambridge, where my thesis focus on energy-based models and neural sampler for sampling from Boltzmann distribution and supervised by [Prof. José Miguel Hernández-Lobato](https://jmhl.org).
+I'm _Tony RuiKang OuYang_ (_歐陽瑞康_ in Chinese; _SeoiHong AuYeung_ in Cantonese). Recently, I completed my **MPhil in Machine Learning and Machine Intelligence** from the University of Cambridge, where my thesis focus on energy-based models and neural sampler for sampling from Boltzmann distribution and supervised by [Prof. José Miguel Hernández-Lobato](https://jmhl.org).
 
 Prior to Cambridge, I obtained a BEng in **Harbin Institute of Technology, shenzhen** (HITsz) with a Distinction, major in **Data Science**. During my year 3, I spent 7 months visiting in the **University of Oxford**, fully funded by HITsz, studying **Mathematics and Statistics** and supervised by [Prof. Gesine Reinert](https://www.stats.ox.ac.uk/~reinert/).
 
