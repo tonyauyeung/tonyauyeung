@@ -3,7 +3,7 @@ I'm _Tony RuiKang OuYang_ (_歐陽瑞康_ in Chinese; _SeoiHong AuYeung_ in Cant
 
 Prior to Cambridge, I obtained a BEng in **Data Science** at **Harbin Institute of Technology, shenzhen** (HITsz) in China, with distinction. During my year 3, I spent 7 months visiting in the **University of Oxford**, fully funded by HITsz, studying **Mathematics and Statistics** and supervised by [Prof. Gesine Reinert](https://www.stats.ox.ac.uk/~reinert/).
 
-My current research interests span generative models, neural samplers and their application to molecular generation. Generally, I'm interested in probabilistic machine learning and AI4S, espesially AI4Molecules and AI4Physics.
+My current research interests span generative models, neural samplers and their application to molecular generation. Generally, I'm interested in probabilistic machine learning and AI4S, espesially developping powerful, efficient and scalable methods that can applied to physics and molecular modeling.
 
 - 📫 How to reach me: ro352@cam.ac.uk or t.ruikang.ouyang@gmail.com
 
