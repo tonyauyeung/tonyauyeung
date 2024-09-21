@@ -6,7 +6,7 @@ Prior to Cambridge, I obtained a BEng in **Data Science** at **Harbin Institute 
 My current research interests span generative models, neural samplers and their application to molecular generation. Generally, I'm interested in probabilistic machine learning and AI4S, espesially developping powerful, efficient and scalable methods that can applied to physics and molecular modeling.
 
 - 📫 How to reach me: ro352@cam.ac.uk or t.ruikang.ouyang@gmail.com
-- Feel free to check my [homepage](tonyauyeung.github.io) for more information!
+- 👏 Feel free to check my [homepage](https://tonyauyeung.github.io) for more information!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyauyeung&layout=compact&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)
 <h3 align="left">Connect with me:</h3>
