@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 I'm _Tony RuiKang OuYang_ (_歐陽瑞康_ in Chinese; _SeoiHong AuYeung_ in Cantonese). Recently, I completed my **MPhil in Machine Learning and Machine Intelligence** from the University of Cambridge, where my thesis focus on energy-based models and neural sampler for sampling from Boltzmann distribution and supervised by [Prof. José Miguel Hernández-Lobato](https://jmhl.org).
 
@@ -12,6 +13,7 @@ My current research interests span generative models, neural samplers and their 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
+<!--
 <a href="https://linkedin.com/in/seoihong-auyeung-225845235" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tony.seoihong.auyeung/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=8G4PuYoAAAAJ&hl=en&oi=ao" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/120px-Google_Scholar_logo.svg.png" alt="" height="30" width="40" /></a>
