@@ -1,3 +1,5 @@
+I'm a research assistant @ Cambridge, interesting in sampling methods, e.g. Markov Chain Monte Carlo, Sequential Monte Carlo, and Parallel Tempering.
+
 <!--
 ### Hi there 👋
 I'm _Tony RuiKang OuYang_ (_歐陽瑞康_ in Chinese; _SeoiHong AuYeung_ in Cantonese). Recently, I completed my **MPhil in Machine Learning and Machine Intelligence** from the University of Cambridge, where my thesis focus on energy-based models and neural sampler for sampling from Boltzmann distribution and supervised by [Prof. José Miguel Hernández-Lobato](https://jmhl.org).
