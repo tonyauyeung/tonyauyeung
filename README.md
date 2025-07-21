@@ -1,16 +1,12 @@
-I'm a research assistant @ Cambridge, interesting in sampling methods, e.g. Markov Chain Monte Carlo, Sequential Monte Carlo, and Parallel Tempering.
-
-<!--
 ### Hi there 👋
-I'm _Tony RuiKang OuYang_ (_歐陽瑞康_ in Chinese; _SeoiHong AuYeung_ in Cantonese). Recently, I completed my **MPhil in Machine Learning and Machine Intelligence** from the University of Cambridge, where my thesis focus on energy-based models and neural sampler for sampling from Boltzmann distribution and supervised by [Prof. José Miguel Hernández-Lobato](https://jmhl.org).
+I'm _Tony RuiKang OuYang_ (_歐陽瑞康_ in Chinese; pronounced as _SeoiHong AuYeung_ in Cantonese). I'm an incoming PhD student at the MLG@Cambridge, supervised by [Prof. José Miguel Hernández-Lobato](https://jmhl.org) and fully funded by the _EPSRA DLA_ scholarship. 
 
-Prior to Cambridge, I obtained a BEng in **Data Science** at **Harbin Institute of Technology, shenzhen** (HITsz) in China, with distinction. During my year 3, I spent 7 months visiting in the **University of Oxford**, fully funded by HITsz, studying **Mathematics and Statistics** and supervised by [Prof. Gesine Reinert](https://www.stats.ox.ac.uk/~reinert/).
+My current research interests span generative models, sampling methods and neural samplers, and their application to molecular generation. Generally, I'm interested in probabilistic machine learning and AI4Science, especially developing powerful, efficient and scalable methods that can be applied to physics and molecular modelling.
 
-My current research interests span generative models, neural samplers and their application to molecular generation. Generally, I'm interested in probabilistic machine learning and AI4S, espesially developping powerful, efficient and scalable methods that can applied to physics and molecular modeling.
-
-- 📫 How to reach me: ro352@cam.ac.uk or t.ruikang.ouyang@gmail.com
+- 📫 Contact: ro352@cam.ac.uk
 - 👏 Feel free to check my [homepage](https://tonyauyeung.github.io) for more information!
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyauyeung&layout=compact&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
