@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm _Tony RuiKang OuYang_ (_歐陽瑞康_ in Chinese; pronounced as _SeoiHong AuYeung_ in Cantonese). I'm an incoming PhD student at the MLG@Cambridge, supervised by [Prof. José Miguel Hernández-Lobato](https://jmhl.org) and fully funded by the _EPSRA DLA_ scholarship. 
+I'm _Tony RuiKang OuYang_ (_歐陽瑞康_ in Chinese; pronounced as _SeoiHong AuYeung_ in Cantonese). I'm a first-year PhD student at the MLG@Cambridge, supervised by [Prof. José Miguel Hernández-Lobato](https://jmhl.org) and fully funded by the _EPSRA DLA_ scholarship. 
 
-My current research interests span generative models, sampling methods and neural samplers, and their application to molecular generation. Generally, I'm interested in probabilistic machine learning and AI4Science, especially developing powerful, efficient and scalable methods that can be applied to physics and molecular modelling.
+My current research interests span generative models (especially diffusions and stochastic interpolants), sampling methods and neural samplers, energy-based models, and their interaction and application to molecular generation. Generally, I'm interested in probabilistic machine learning and AI4Science, especially developing powerful, efficient and scalable methods that can be applied to physics and molecular modelling.
 
 - 📫 Contact: ro352@cam.ac.uk
 - 👏 Feel free to check my [homepage](https://tonyauyeung.github.io) for more information!
